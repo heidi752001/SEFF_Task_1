@@ -1,0 +1,30 @@
+html{
+    background-color: lightpink;
+}
+p{
+    border-radius: 50%; 
+    width: 90px;
+    height: 90px;
+    background-color: blue;
+}
+u{
+    color: brown;
+}
+mark{
+    color: seagreen;
+    background-color: lightgoldenrodyellow;
+}
+ol{
+    color: crimson;
+}
+input{
+    background-color: lightcyan;
+}
+button{
+    background-color: lightgoldenrodyellow;
+    color: navy;
+    border-radius: 25%;
+    width: 170px;
+    height: 30px;
+    border-style: hidden;
+}
